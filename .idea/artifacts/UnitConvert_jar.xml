@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UnitConvert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UnitConvert_jar</output-path>
+    <root id="archive" name="UnitConvert.jar">
+      <element id="module-output" name="UnitConvert" />
+    </root>
+  </artifact>
+</component>
